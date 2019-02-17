@@ -13,7 +13,10 @@ function AnswerOption(props) {
             value={props.answerType}
             disabled={props.answer}
             onChange={props.onAnswerSelected}
-            >
+            />
+            <label className="radioLabel" htmlFor={props.answerType}>
+                {props.answerContent}
+            </label>
         </li>
     );
 }

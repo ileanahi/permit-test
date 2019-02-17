@@ -1,4 +1,4 @@
-# Hawaii Permit Test Quiz
+# Hawaii Permit Questions Quiz for Studying
 
 This React web application was created to make it easier to study for the Hawaii Driver's Permit Test.
 
